@@ -1,4 +1,4 @@
-# IoT Project
+# IoT-Based Soil Moisture and Climate Monitoring System
 
 ## Setup
 <img alt="IoT Project Overview" width="500px" height="300px" src="https://github.com/user-attachments/assets/b12a6d03-5bf8-4880-97ed-e350fd9e9366">
