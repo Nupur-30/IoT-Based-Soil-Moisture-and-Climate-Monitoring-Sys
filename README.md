@@ -73,4 +73,5 @@ For more information, visit:
 
 ## Thingspeak
 
-<img width="623" alt="Thingspeak" src="https://github.com/user-attachments/assets/90549d85-74ce-401b-81f9-b9ed3cce57d5">
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/de485a58-dccb-417e-b43c-5e383d611b2b">
+
